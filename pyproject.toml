@@ -1,0 +1,15 @@
+[project]
+name = "group"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fire>=0.7.0",
+    "matplotlib>=3.10.1",
+    "notebook>=7.4.0",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "seaborn>=0.13.2",
+]

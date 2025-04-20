@@ -1,0 +1,126 @@
+user_id,session_code,smartwatch_time_taken,smartwatch_message_length,smartwatch_non_contiguous_errors_per_100_chars,smartwatch_total_changes,smartwatch_erroneous_changes,phone_time_taken,task_name
+efe_go,1,3.499,0.0,,,,,Task 1
+efe_go,1p,,,,,,6.37,Task 1
+efe_go,2,17.313,14.0,7.143,1.0,0.0,,Task 2
+efe_go,2p,,,,,,8.67,Task 2
+efe_go,2u,18.704,14.0,14.286,,,,Task 2
+efe_go,31,60.333,68.0,7.353,4.0,1.0,,Task 3.1
+efe_go,31p,,,,,,14.22,Task 3.1
+efe_go,31u,61.275,68.0,11.765,,,,Task 3.1
+efe_go,32,46.207,75.0,8.0,9.0,1.0,,Task 3.2
+efe_go,32p,,,,,,16.85,Task 3.2
+efe_go,32u,47.982,75.0,13.333,,,,Task 3.2
+efe_v,1,2.836,0.0,,,,,Task 1
+efe_v,1p,,,,,,9.03,Task 1
+efe_v,2,12.791,14.0,7.143,1.0,0.0,,Task 2
+efe_v,2p,,,,,,10.25,Task 2
+efe_v,2u,15.421,14.0,14.286,,,,Task 2
+efe_v,31,62.014,68.0,14.706,6.0,0.0,,Task 3.1
+efe_v,31p,,,,,,18.29,Task 3.1
+efe_v,31u,56.522,60.0,18.333,,,,Task 3.1
+efe_v,32,59.246,75.0,8.0,8.0,0.0,,Task 3.2
+efe_v,32p,,,,,,20.66,Task 3.2
+efe_v,32u,56.219,75.0,10.667,,,,Task 3.2
+hyungchan_u1,1,5.3,0.0,,,,,Task 1
+hyungchan_u1,1p,,,,,,6.05,Task 1
+hyungchan_u1,2,19.043,14.0,21.429,0.0,0.0,,Task 2
+hyungchan_u1,2p,,,,,,7.01,Task 2
+hyungchan_u1,2u,19.939,14.0,28.571,,,,Task 2
+hyungchan_u1,31,62.879,68.0,5.882,5.0,0.0,,Task 3.1
+hyungchan_u1,31p,,,,,,11.57,Task 3.1
+hyungchan_u1,31u,72.4,68.0,13.235,,,,Task 3.1
+hyungchan_u1,32,73.837,75.0,4.0,8.0,0.0,,Task 3.2
+hyungchan_u1,32p,,,,,,12.29,Task 3.2
+hyungchan_u1,32u,74.654,75.0,13.333,,,,Task 3.2
+hyungchan_u2,1,4.228,0.0,,,,,Task 1
+hyungchan_u2,1p,,,,,,7.27,Task 1
+hyungchan_u2,2,22.752,14.0,7.143,1.0,0.0,,Task 2
+hyungchan_u2,2p,,,,,,8.33,Task 2
+hyungchan_u2,2u,25.367,14.0,14.286,,,,Task 2
+hyungchan_u2,31,69.759,68.0,2.941,5.0,0.0,,Task 3.1
+hyungchan_u2,31p,,,,,,24.73,Task 3.1
+hyungchan_u2,31u,87.969,68.0,8.824,,,,Task 3.1
+hyungchan_u2,32,48.665,75.0,6.667,10.0,0.0,,Task 3.2
+hyungchan_u2,32p,,,,,,28.54,Task 3.2
+hyungchan_u2,32u,83.192,75.0,20.0,,,,Task 3.2
+kevin_EY,1,6.565,0.0,,,,,Task 1
+kevin_EY,1p,5.52,0.0,0.0,0.0,0.0,,Task 1
+kevin_EY,1p,,,,,,5.09,Task 1
+kevin_EY,2,21.771,12.0,8.333,2.0,0.0,,Task 2
+kevin_EY,2p,,,,,,6.89,Task 2
+kevin_EY,2u,21.07,12.0,33.333,,,,Task 2
+kevin_EY,31,65.049,60.0,6.667,2.0,0.0,,Task 3.1
+kevin_EY,31p,,,,,,14.59,Task 3.1
+kevin_EY,31u,64.649,68.0,14.706,,,,Task 3.1
+kevin_EY,32,66.001,75.0,5.333,6.0,1.0,,Task 3.2
+kevin_EY,32p,,,,,,16.48,Task 3.2
+kevin_EY,32u,73.219,75.0,16.0,,,,Task 3.2
+kevin_SA,1,5.309,0.0,,,,,Task 1
+kevin_SA,1p,,,,,,4.89,Task 1
+kevin_SA,2,17.129,14.0,7.143,0.0,0.0,,Task 2
+kevin_SA,2p,,,,,,7.25,Task 2
+kevin_SA,2u,22.64,12.0,25.0,,,,Task 2
+kevin_SA,31,63.54,68.0,5.882,7.0,0.0,,Task 3.1
+kevin_SA,31p,,,,,,15.67,Task 3.1
+kevin_SA,31u,73.588,68.0,19.118,,,,Task 3.1
+kevin_SA,32,62.431,75.0,9.333,8.0,0.0,,Task 3.2
+kevin_SA,32p,,,,,,16.42,Task 3.2
+kevin_SA,32u,87.616,75.0,24.0,,,,Task 3.2
+nividp_U01,1,5.272,0.0,,,,,Task 1
+nividp_U01,1p,,,,,,8.83,Task 1
+nividp_U01,2,22.845,14.0,28.571,1.0,0.0,,Task 2
+nividp_U01,2p,,,,,,11.61,Task 2
+nividp_U01,2u,18.135,14.0,21.429,,,,Task 2
+nividp_U01,31,69.932,68.0,17.647,5.0,0.0,,Task 3.1
+nividp_U01,31p,,,,,,23.43,Task 3.1
+nividp_U01,31u,52.266,68.0,10.294,,,,Task 3.1
+nividp_U01,32,79.884,75.0,20.0,4.0,1.0,,Task 3.2
+nividp_U01,32p,,,,,,22.72,Task 3.2
+nividp_U01,32u,63.765,75.0,14.667,,,,Task 3.2
+nividp_U02,1,2.311,0.0,,,,,Task 1
+nividp_U02,1p,,,,,,9.24,Task 1
+nividp_U02,2,17.475,14.0,28.571,2.0,0.0,,Task 2
+nividp_U02,2p,,,,,,7.43,Task 2
+nividp_U02,2u,15.161,14.0,14.286,,,,Task 2
+nividp_U02,31,54.04,68.0,5.882,6.0,0.0,,Task 3.1
+nividp_U02,31p,,,,,,16.58,Task 3.1
+nividp_U02,31u,74.247,68.0,20.588,,,,Task 3.1
+nividp_U02,32,64.308,75.0,9.333,6.0,1.0,,Task 3.2
+nividp_U02,32p,,,,,,19.84,Task 3.2
+nividp_U02,32u,67.555,75.0,10.667,,,,Task 3.2
+oskar_user1,1,5.739,0.0,,,,,Task 1
+oskar_user1,2,27.131,14.0,42.857,0.0,0.0,,Task 2
+oskar_user1,2u,21.692,14.0,0.0,,,,Task 2
+oskar_user1,31,77.621,70.0,25.714,0.0,0.0,,Task 3.1
+oskar_user1,31u,68.376,66.0,6.061,,,,Task 3.1
+oskar_user1,32,61.683,75.0,6.667,0.0,0.0,,Task 3.2
+oskar_user1,32u,55.188,75.0,4.0,,,,Task 3.2
+oskar_user2,1,2.95,0.0,,,,,Task 1
+oskar_user2,2,14.67,14.0,0.0,0.0,0.0,,Task 2
+oskar_user2,2u,20.319,14.0,21.429,,,,Task 2
+oskar_user2,31,82.947,68.0,22.059,0.0,0.0,,Task 3.1
+oskar_user2,31u,61.28,68.0,7.353,,,,Task 3.1
+oskar_user2,32,68.12,75.0,8.0,0.0,0.0,,Task 3.2
+oskar_user2,32u,80.93,75.0,12.0,,,,Task 3.2
+ryan_Participant A,1,3.816,0.0,,,,,Task 1
+ryan_Participant A,1p,,,,,,12.6,Task 1
+ryan_Participant A,2,13.827,14.0,14.286,1.0,0.0,,Task 2
+ryan_Participant A,2p,,,,,,8.35,Task 2
+ryan_Participant A,2u,11.421,14.0,7.143,,,,Task 2
+ryan_Participant A,31,69.915,68.0,30.882,5.0,0.0,,Task 3.1
+ryan_Participant A,31p,,,,,,18.01,Task 3.1
+ryan_Participant A,31u,62.03,68.0,8.824,,,,Task 3.1
+ryan_Participant A,32,60.765,77.0,15.584,7.0,0.0,,Task 3.2
+ryan_Participant A,32p,,,,,,21.54,Task 3.2
+ryan_Participant A,32u,50.11,75.0,9.333,,,,Task 3.2
+ryan_Participant C,1,4.738,0.0,,,,,Task 1
+ryan_Participant C,1p,,,,,,12.5,Task 1
+ryan_Participant C,2,16.791,12.0,8.333,2.0,1.0,,Task 2
+ryan_Participant C,2p,,,,,,13.63,Task 2
+ryan_Participant C,2u,17.485,14.0,21.429,,,,Task 2
+ryan_Participant C,31,57.233,68.0,11.765,5.0,0.0,,Task 3.1
+ryan_Participant C,31p,,,,,,16.76,Task 3.1
+ryan_Participant C,31u,59.432,68.0,10.294,,,,Task 3.1
+ryan_Participant C,32,64.696,75.0,12.0,9.0,1.0,,Task 3.2
+ryan_Participant C,32p,,,,,,17.09,Task 3.2
+ryan_Participant C,32u,56.93,75.0,16.0,,,,Task 3.2
